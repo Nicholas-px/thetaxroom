@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "image": "/episode-1.png",
+    "name": "Michael Carter",
+    "time": "4hr 12min",
+    "title": "Stories Resonate: The Art of Storytelling",
+    "para": "Exploring the art of storytelling and its impact across books, films, and podcasts.",
+    "episode": "Episode 10"
+  },
+  {
+    "id": 2,
+    "image": "/episode-2.png",
+    "name": "Rachel Morgan",
+    "time": "4hr 12min",
+    "title": "Eerie Whispers: Tales from the Shadows",
+    "para": "Join us on a spine-chilling journey into eerie tales and unexplained mysteries.",
+    "episode": "Episode 11"
+  },
+  {
+    "id": 3,
+    "image": "/episode-3.png",
+    "name": "Emily Dawson",
+    "time": "4hr 12min",
+    "title": "Tech Titans: Shaping Tomorrow’s Future",
+    "para": "A deep dive into emerging technologies and the innovators shaping tomorrow.",
+    "episode": "Episode 08"
+  },
+  {
+    "id": 4,
+    "image": "/episode-4.png",
+    "name": "Daniel Brooks",
+    "time": "4hr 12min",
+    "title": "Comic Relief: Laughter in Every Moment",
+    "para": "Exploring humor, comedy writing, and how laughter connects us all.",
+    "episode": "Episode 13"
+  },
+  {
+    "id": 5,
+    "image": "/episode-5.png",
+    "name": "James Reynolds",
+    "time": "4hr 12min",
+    "title": "Mic Magic: Crafting Captivating Podcasts",
+    "para": "Behind the scenes of podcast creation, storytelling, and audience engagement.",
+    "episode": "Episode 35"
+  },
+  {
+    "id": 6,
+    "image": "/episode-6.png",
+    "name": "Sophia Bennett",
+    "time": "4hr 12min",
+    "title": "Triumphs Unveiled: Stories of Resilience",
+    "para": "Inspiring stories of personal victories, failures, and growth.",
+    "episode": "Episode 45"
+  },
+  {
+    "id": 7,
+    "image": "/episode-7.png",
+    "name": "Andrew Coleman",
+    "time": "4hr 12min",
+    "title": "Culinary Journeys: Flavors of the World",
+    "para": "A global food journey exploring culture, taste, and tradition.",
+    "episode": "Episode 15"
+  },
+  {
+    "id": 8,
+    "image": "/episode-8.png",
+    "name": "Olivia Turner",
+    "time": "4hr 12min",
+    "title": "Mindful Moments: Finding Peace Within",
+    "para": "A calming discussion on mindfulness, balance, and mental clarity.",
+    "episode": "Episode 06"
+  },
+  {
+    "id": 9,
+    "image": "/episode-9.png",
+    "name": "Benjamin Foster",
+    "time": "4hr 12min",
+    "title": "Future Tech: Exploring Tomorrow’s Innovations",
+    "para": "A look at AI, automation, and the future of digital transformation.",
+    "episode": "Episode 16"
+  },
+  {
+    "id": 10,
+    "image": "/episode-10.png",
+    "name": "Lucas Mitchell",
+    "time": "4hr 12min",
+    "title": "Startup Stories: Entrepreneurs Unplugged",
+    "para": "Real-world startup journeys, lessons learned, and business insights.",
+    "episode": "Episode 32"
+  },
+  {
+    "id": 11,
+    "image": "/episode-11.png",
+    "name": "Ethan Walker",
+    "time": "4hr 12min",
+    "title": "Creative Minds: Building Ideas That Matter",
+    "para": "Conversations with creators turning imagination into impact.",
+    "episode": "Episode 12"
+  },
+  {
+    "id": 12,
+    "image": "/episode-12.png",
+    "name": "Noah Peterson",
+    "time": "4hr 12min",
+    "title": "Dark Corners: Unsolved Mysteries",
+    "para": "Investigating strange stories, mysteries, and unanswered questions.",
+    "episode": "Episode 15"
+  },
+  {
+    "id": 13,
+    "image": "/episode-13.png",
+    "name": "Ava Richardson",
+    "time": "4hr 12min",
+    "title": "Digital Evolution: Life in the Tech Age",
+    "para": "How technology is reshaping human behavior and society.",
+    "episode": "Episode 08"
+  },
+  {
+    "id": 14,
+    "image": "/episode-14.png",
+    "name": "Caleb Morrison",
+    "time": "4hr 12min",
+    "title": "Laugh Lines: Comedy Behind the Scenes",
+    "para": "Breaking down what makes comedy timeless and relatable.",
+    "episode": "Episode 13"
+  },
+  {
+    "id": 15,
+    "image": "/episode-15.png",
+    "name": "Lily Anderson",
+    "time": "4hr 12min",
+    "title": "Voice Matters: Power of Audio Storytelling",
+    "para": "How voice, sound, and pacing shape unforgettable stories.",
+    "episode": "Episode 17"
+  },
+  {
+    "id": 16,
+    "image": "/episode-16.png",
+    "name": "Sophia Martinez",
+    "time": "4hr 12min",
+    "title": "Hidden Strengths: Stories of Courage",
+    "para": "Powerful narratives of courage, perseverance, and hope.",
+    "episode": "Episode 14"
+  },
+  {
+    "id": 17,
+    "image": "/episode-17.png",
+    "name": "Ryan Thompson",
+    "time": "4hr 12min",
+    "title": "Taste Trails: Exploring Global Cuisine",
+    "para": "Discovering the stories behind iconic dishes around the world.",
+    "episode": "Episode 12"
+  },
+  {
+    "id": 18,
+    "image": "/episode-18.png",
+    "name": "Jordan Hughes",
+    "time": "4hr 12min",
+    "title": "Inner Balance: Mindfulness in Daily Life",
+    "para": "Practical mindfulness techniques for a calmer lifestyle.",
+    "episode": "Episode 12"
+  }
+]

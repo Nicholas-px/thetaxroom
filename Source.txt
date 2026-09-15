@@ -1,0 +1,19 @@
+npm install bootstrap-icons
+
+npm install remixicon
+
+npm install @iconify/react
+
+npm install remixicon react-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+
+npm install swiper
+
+npm install react-countup
+
+npm install react-hot-toast
+
+
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "remixicon/fonts/remixicon.css";
+
+
